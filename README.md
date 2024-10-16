@@ -16,6 +16,7 @@ Formalization of Chemical Reaction Network Theory in Lean 4.
 - general kinetics
 - deficiency zero theorem
 - deficiency one theorem
+- proof of the [global attractor conjecture](https://arxiv.org/abs/1501.02860)
 - meta: project organization
 
 # References
